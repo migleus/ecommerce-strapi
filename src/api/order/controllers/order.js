@@ -11,7 +11,6 @@ function calcDiscontPrice(price, discount) {
 
   return result.toFixed(2);
 }
-
 /**
  * order controller
  */
